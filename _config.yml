@@ -1,20 +1,20 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: 八宝周的博客
+SEOTitle: 八宝周的博客 | Ipeid Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "关于前端与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Front-End Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, 前端, 设计, 产品, 肖玉, Lynn, 肖玉的男朋友"
-url: "https://huangxuan.me"              # your host, for absolute URL
+email: zhouyf@hnzcdata.com
+description: "关于数据分析，数据挖掘 | ，Web & Mobile Lover，Front-End Engineer，UX Designer | 这里是 @八宝周 的个人博客，与你一起发现更大的世界。"
+keyword: "八宝周, Ipeid, Ipeid周, 数据挖掘, 大数据, @八宝周 八宝周的博客, ipeid Blog, 博客, 个人网站, 互联网, 数据分析"
+url: "https://ipeid.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
+weibo_username:     智宸数据分析
 zhihu_username:     huxpro
-github_username:    huxpro
+github_username:    ipeid
 #twitter_username:  huxpro
 facebook_username:  huxpro
 # linkedin_username:  firstname-lastname-idxxxx
@@ -70,7 +70,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，<br>离开世界之前，一切都是过程"
+sidebar-about-description: "知世如梦无所求，无所求心普空寂！还似梦中随梦境，成就河沙梦功德！"
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
